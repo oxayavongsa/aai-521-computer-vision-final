@@ -12,7 +12,7 @@ Welcome to our final project for **AAI-521: Computer Vision**! Our mission is to
 Here’s what you’ll find in this repository:  
 1. **📄 Final Report**  
    - A professional-level technical report detailing our methods, results, and findings.  
-   - File: [`Team08_FinalReport.pdf`](./Team08_FinalReport.pdf)  
+   - File: [**Final Report**](https://docs.google.com/document/d/1FkOGeryOPFlnyoB-tbzl1q5u4E5uhubmwrL6qrZZNIE/edit?usp=sharing)  
 
 2. **💻 Codebase**  
    - Python scripts and Jupyter Notebooks for data preprocessing, modeling, and performance evaluation.  
