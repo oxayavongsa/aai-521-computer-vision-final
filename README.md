@@ -3,7 +3,7 @@ _📸AAI-521 Computer Vision Final Project_
 
 ---
 
-## **🚀 Project Overview**  
+## **🚀 Project Overview**  - Active
 Welcome to our final project for **AAI-521: Computer Vision**! Our mission is to create a cutting-edge **Optical Character Recognition (OCR)** pipeline using **EasyOCR** and **TrOCR**. This project aims to extract and interpret text from diverse image datasets, bridging the gap between visual data and actionable insights.  🌟
 
 ---
