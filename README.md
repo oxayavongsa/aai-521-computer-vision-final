@@ -4,7 +4,9 @@ _📸AAI-521 Computer Vision Final Project_ - _University of San Diego, School o
 ---
 
 ## **🚀 Project Overview**  - Active
-Welcome to our final project for **AAI-521: Computer Vision**! Our mission is to create a cutting-edge **Optical Character Recognition (OCR)** pipeline using **EasyOCR** and **TrOCR**. This project aims to extract and interpret text from diverse image datasets, bridging the gap between visual data and actionable insights.  🌟
+In the modern era of digitization, extracting actionable insights from unstructured visual data is a pressing challenge across industries. Optical Character Recognition (OCR) is a pivotal tool that bridges the gap between visual content and textual information, with applications ranging from document digitization to accessibility enhancements for individuals with disabilities.
+
+Our project, developed as part of AAI-521: Computer Vision, aims to create a robust and versatile OCR pipeline leveraging state-of-the-art models—EasyOCR and TrOCR. This pipeline is designed to handle multilingual text in diverse formats, including arbitrary text orientations and challenging real-world image conditions. 🌟
 
 ---
 
@@ -73,7 +75,7 @@ We used the **TextOCR Dataset** from Kaggle:
 # **📅 Task List - Team Members**
 ---
 
-### **Outhai Xayavongsa (Ms. Thai)** (Team Leader)  
+### **Outhai Xayavongsa (Ms. Thai)** _(Team Leader)_  
 - Created task lists, organized meets, and managed team coordination.  
 - Implemented and validated the TrOCR model.  
 - Integrated and Completed **EasyOCR** and **TrOCR** models.  
@@ -83,7 +85,7 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Jay Patel** (Team Member)  
+### **Jay Patel** _(Team Member) _ 
 - Selected dataset and assessed quality.  
 - Cleaned and preprocessed the dataset.  
 - Developed and evaluated YOLO-based methods.
@@ -91,6 +93,6 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Daniel Shifrin** (Team Member)  
+### **Daniel Shifrin** _(Team Member) _ 
 - Conducted EDA and extracted features.  
 - Initiated EasyOCR and supported model optimization.  
