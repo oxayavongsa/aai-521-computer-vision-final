@@ -73,7 +73,7 @@ We used the **TextOCR Dataset** from Kaggle:
 # **📅 Task List - Team Members**
 ---
 
-### **Thai** (Team Lead)  
+### **Outhai Xayavongsa (Ms. Thai)** (Team Leader)  
 - Created task lists, organized meets, and managed team coordination.  
 - Implemented and validated the TrOCR model.  
 - Integrated and Completed **EasyOCR** and **TrOCR** models.  
@@ -83,7 +83,7 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Jay** (Team Member)  
+### **Jay Patel** (Team Member)  
 - Selected dataset and assessed quality.  
 - Cleaned and preprocessed the dataset.  
 - Developed and evaluated YOLO-based methods.
@@ -91,6 +91,6 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Daniel** (Team Member)  
+### **Daniel Shifrin** (Team Member)  
 - Conducted EDA and extracted features.  
 - Initiated EasyOCR and supported model optimization.  
