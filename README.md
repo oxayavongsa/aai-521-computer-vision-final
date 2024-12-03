@@ -40,8 +40,8 @@ Our project seeks to tackle real-world challenges in **text recognition** by imp
 ---
 
 ## **📊 Dataset**
-We used the **TextOCR Dataset** from Kaggle:  
-[**TextOCR: Text Extraction from Images Dataset**](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset)  
+We used the **TextOCR Dataset** from Kaggle: 
+🌐[**TextOCR: Text Extraction from Images Dataset**](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset)  
 
 - **Source:** TextVQA images annotated for OCR tasks.  
 - **Key Features:**  
@@ -67,10 +67,6 @@ We used the **TextOCR Dataset** from Kaggle:
 
 4. Run the pipeline:
    Preprocess images, train models, and evaluate results directly in the notebook.
-
-## **🌐 Links and Resources**
-
-<a href="https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset" target="_blank">TextOCR: Text Extraction from Images Dataset</a>
 
 # **📅 Task List - Team Members**
 ---
