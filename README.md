@@ -1,10 +1,12 @@
 # **"A Picture is Worth a Thousand Words:Unleashing the Power of OCR"**<br>
-_📸AAI-521 Computer Vision Final Project_
+_📸AAI-521 Computer Vision Final Project_ - _University of San Diego, School of Engineering - Masters of Applied Artificial Intelligence_
 
 ---
 
-## **🚀 Project Overview**  
-Welcome to our final project for **AAI-521: Computer Vision**! Our mission is to create a cutting-edge **Optical Character Recognition (OCR)** pipeline using **EasyOCR** and **TrOCR**. This project aims to extract and interpret text from diverse image datasets, bridging the gap between visual data and actionable insights.  🌟
+## **🚀 Project Overview**  - Active
+In the modern era of digitization, extracting actionable insights from unstructured visual data is a pressing challenge across industries. Optical Character Recognition (OCR) is a pivotal tool that bridges the gap between visual content and textual information, with applications ranging from document digitization to accessibility enhancements for individuals with disabilities.
+
+Our project, developed as part of AAI-521: Computer Vision, aims to create a robust and versatile OCR pipeline leveraging state-of-the-art models—EasyOCR and TrOCR. This pipeline is designed to handle multilingual text in diverse formats, including arbitrary text orientations and challenging real-world image conditions. 🌟
 
 ---
 
@@ -38,8 +40,8 @@ Our project seeks to tackle real-world challenges in **text recognition** by imp
 ---
 
 ## **📊 Dataset**
-We used the **TextOCR Dataset** from Kaggle:  
-[**TextOCR: Text Extraction from Images Dataset**](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset)  
+We used the **TextOCR Dataset** from Kaggle: 
+🌐[**TextOCR: Text Extraction from Images Dataset**](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset)  
 
 - **Source:** TextVQA images annotated for OCR tasks.  
 - **Key Features:**  
@@ -66,14 +68,10 @@ We used the **TextOCR Dataset** from Kaggle:
 4. Run the pipeline:
    Preprocess images, train models, and evaluate results directly in the notebook.
 
-## **🌐 Links and Resources**
-
-<a href="https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset" target="_blank">TextOCR: Text Extraction from Images Dataset</a>
-
 # **📅 Task List - Team Members**
 ---
 
-### **Thai** (Team Lead)  
+### **Outhai Xayavongsa (Ms. Thai)** _(Team Leader)_  
 - Created task lists, organized meets, and managed team coordination.  
 - Implemented and validated the TrOCR model.  
 - Integrated and Completed **EasyOCR** and **TrOCR** models.  
@@ -83,7 +81,7 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Jay** (Team Member)  
+### **Jay Patel** _(Team Member) _ 
 - Selected dataset and assessed quality.  
 - Cleaned and preprocessed the dataset.  
 - Developed and evaluated YOLO-based methods.
@@ -91,6 +89,6 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Daniel** (Team Member)  
+### **Daniel Shifrin** _(Team Member) _ 
 - Conducted EDA and extracted features.  
 - Initiated EasyOCR and supported model optimization.  
