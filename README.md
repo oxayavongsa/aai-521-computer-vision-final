@@ -28,6 +28,8 @@ Here’s what you’ll find in this repository:
 4. **📂 Organized Files**  
    - **`/final`**: Contains the polished deliverables, including the final report, presentation, and base code.
    - **`/processed`**: Files used for preprocessing and experimental work.
+   - **`/images`**: Images contained in our code file _"Model_EasyOCR-andTrOCR_Complete.ipynb"_
+   - **'/requirement.txt`**: Library and Dependency packages
    - **`Model_EasyOCR-and-TrOCR_Complete.ipynb`**: The primary notebook for running the OCR pipeline.  
 
 ---
@@ -98,21 +100,22 @@ We utilized the TextOCR Dataset, available on Kaggle:
   - TrOCR is better suited for noisy, multilingual, or distorted text.
 
 ---
-# **📅 Task List - Team Members**
 
-### **Outhai Xayavongsa (Ms. Thai)** _(Team Leader)_  
+### **📅 Task List - Team Members**
+
+**Outhai Xayavongsa (Ms. Thai)** _(Team Leader)_  
 - Created task lists, organized meets, and managed team coordination.  
 - Implemented and validated the TrOCR model.  
 - Integrated and Completed **EasyOCR** and **TrOCR** models.  
 - Evaluated model performance and fine-tuned metrics.
 - Created pipelines and documented processes.  
 
-### **Jay Patel** _(Team Member)_
+**Jay Patel** _(Team Member)_
 - Selected dataset and assessed quality.  
 - Cleaned and preprocessed the dataset.  
 - Experimented with various Model Methods
 
-### **Daniel Shifrin** _(Team Member)_ 
+**Daniel Shifrin** _(Team Member)_ 
 - Performed EDA and extracted dataset features.
 - Assisted with EasyOCR implementation and optimization.
 
