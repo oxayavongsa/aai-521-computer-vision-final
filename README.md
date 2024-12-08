@@ -29,7 +29,7 @@ Here’s what you’ll find in this repository:
    - **`/final`**: Contains the polished deliverables, including the final report, presentation, and base code.
    - **`/processed`**: Files used for preprocessing and experimental work.
    - **`/images`**: Images contained in our code file _"Model_EasyOCR-andTrOCR_Complete.ipynb"_
-   - **`/requirement.txt`**: Library and Dependency packages
+   - **`requirement.txt`**: Library and Dependency packages
    - **`Model_EasyOCR-and-TrOCR_Complete.ipynb`**: The primary notebook for running the OCR pipeline.  
 
 ---
