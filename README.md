@@ -23,7 +23,7 @@ Here’s what you’ll find in this repository:
 
 3. **🎥 Presentation Video**  
    - A 10-12 minute recorded presentation summarizing our work and findings.  
-   - [YouTube Link](#) *(Placeholder – link will be added after upload)*  
+   - [YouTube Link](https://youtu.be/Em239t2VNRY)
 
 4. **📂 Organized Files**  
    - **`/my-folder`**: Work-in-progress and experimental files.  
