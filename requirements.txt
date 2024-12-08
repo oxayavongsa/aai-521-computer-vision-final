@@ -1,0 +1,17 @@
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+torch
+torchvision
+transformers
+jiwer
+datasets
+evaluate
+Pillow
+opencv-python
+pyarrow
+fastparquet
+easyocr
+pytesseract
