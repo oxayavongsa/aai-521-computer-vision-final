@@ -81,7 +81,7 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Jay Patel** _(Team Member) _ 
+### **Jay Patel** _(Team Member)_
 - Selected dataset and assessed quality.  
 - Cleaned and preprocessed the dataset.  
 - Developed and evaluated YOLO-based methods.
@@ -89,6 +89,6 @@ We used the **TextOCR Dataset** from Kaggle:
 
 ---
 
-### **Daniel Shifrin** _(Team Member) _ 
+### **Daniel Shifrin** _(Team Member)_ 
 - Conducted EDA and extracted features.  
 - Initiated EasyOCR and supported model optimization.  
