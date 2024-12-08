@@ -1,5 +1,5 @@
 # **_"A Picture is Worth a Thousand Words: Unleashing the Power of OCR"_**<br>
-📸AAI-521 Computer Vision Final Project_ - _University of San Diego, School of Engineering - Masters of Applied Artificial Intelligence
+📸AAI-521 Computer Vision Final Project - University of San Diego, School of Engineering - Masters of Applied Artificial Intelligence
 
 ---
 
