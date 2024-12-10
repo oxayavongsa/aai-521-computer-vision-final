@@ -23,7 +23,8 @@ Here’s what you’ll find in this repository:
 
 3. **🎥 Presentation Video**  
    - A concise 10-12 minute video summarizing our work, methods, and findings. 
-   - [**YouTube Link**](https://youtu.be/Em239t2VNRY)
+   - [**YouTube Link**](https://youtu.be/Em239t2VNRY)<br><br>
+   [![A Picture is Worth a Thousand Words: Unleashing the Power of OCR](https://img.youtube.com/vi/Em239t2VNRY/0.jpg)](https://youtu.be/Em239t2VNRY)
 
 4. **📂 Organized Files**  
    - **`/final`**: Contains the polished deliverables, including the final report, presentation, and base code.
